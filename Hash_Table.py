@@ -1,5 +1,4 @@
 # Test conflicted commit
-# Declare a dictionary
 # add j do
 dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
 
