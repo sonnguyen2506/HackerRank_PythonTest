@@ -1,4 +1,5 @@
 # Declare a dictionary
+# add j do
 dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
 
 # Accessing the dictionary with its key
