@@ -1,3 +1,4 @@
+# Test conflicted commit
 # Declare a dictionary
 dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
 
